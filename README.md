@@ -1,5 +1,7 @@
 # Laravel_uz
 Laravel o'rganmoqchi bo'lganlar uchun o'zbek tilidagi yo'l xaritasi.
+Noqulaylik tug'dirmaslik maqsadida ushbu yo'l xaritadagi mavzular nomini o'zbek tiliga o'girmadim.
+[MANBA/SOURCE] (https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 
 --- 
 
