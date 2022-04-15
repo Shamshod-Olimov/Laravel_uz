@@ -8,7 +8,7 @@ O'zingizni birinchi oddiy Laravel loyihangizni yarating
 
 __Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_facing_up: Maqola :capital_abcd: Kurs :question: Test__ 
 
-| Topic | Learning Links |
+| Mavzular | Havolalar |
 | ----- | ----- |
 | **Routing and Controllers: Basics** | :question: [Let's Test Your Laravel Routing Skills: Complete 12 Tasks](https://www.youtube.com/watch?v=pENlD3izA3Q) |
 | Callback Functions and Route::view() |:book: [Basic Routing](https://laravel.com/docs/routing#basic-routing) <br>:book: [View Routes](https://laravel.com/docs/routing#view-routes) <br>|
@@ -38,21 +38,19 @@ __Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_faci
 | Table Pagination |:book: [Database Pagination](https://laravel.com/docs/pagination) <br>|
 
 
-### Beginner Demo-Project: Personal Blog
+### Beginner Demo-Loyiha: Shaxsiy Blog
 
-To achieve this Beginner level, you would need to practice by creating something like [this personal blog project](https://github.com/LaravelDaily/Laravel-Roadmap-Beginner-Challenge).
-
-Inside of the repository above, you will find all the details of the task, with a few example solutions.
+Ushbu darajaga erishish uchun siz [ushbu shaxsiy blog loyihasi] kabi narsalarni yaratishni mashq qilishingiz kerak bo'ladi (https://github.com/LaravelDaily/Laravel-Roadmap-Beginner-Challenge).
 
 -----
 
 
-## Advanced Beginner Level
-The goal of this level is to find the first job or freelance gig
+## Advanced Beginner Bosqichi
+Ushbu darajadagi maqsad birinchi ish yoki mustaqil freelance buyurtma topishdir
 
-__Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :capital_abcd: Course__ 
+__Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_facing_up: Maqola :capital_abcd: Kurs :question: Test__ 
 
-| Topic | Learning Links |
+| Mavzular | Havolalar |
 | ----- | ----- |
 | **Routing Advanced** | :clapper: [Laravel: 8 Tips for Advanced Routing](https://www.youtube.com/watch?v=_BIhuX8owTo) <br> :clapper: [More videos](videos/routing-advanced.md) <br> |
 | Route Model Binding |:book: [Route Model Binding](https://laravel.com/docs/routing#route-model-binding) <br>:clapper: [Laravel Route Model Binding: All You Need To Know](https://www.youtube.com/watch?v=6dEfxGLgevM) <br> :clapper: [More videos](videos/route-model-binding.md)|
@@ -97,11 +95,9 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Deployment on Live Servers |:book: [Deployment](https://laravel.com/docs/deployment) <br>:page_facing_up: [How to Deploy Laravel Projects to Live Server: The Ultimate Guide](https://laraveldaily.com/how-to-deploy-laravel-projects-to-live-server-the-ultimate-guide/) <br>:page_facing_up: [What Server is Needed to Deploy Laravel Projects](https://laraveldaily.com/what-server-is-needed-to-deploy-laravel-projects/) <br>:clapper: [How we Deploy Laravel: Branches, Staging Servers, Forge and Envoyer](https://www.youtube.com/watch?v=8DVuVftFZcQ) <br>|
 
 
-### Advanced Beginner Demo-Project: Simple CRM
+### Advanced Beginner Demo-Loyiha: Sodda CRM
 
-To achieve this Advanced Beginner level, you would need to practice by creating something like [this simple CRM project](https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Challenge).
-
-Inside of the repository above, you will find all the details of the task, with an example solution.
+Ushbu Advanced Beginner darajasiga erishish uchun siz [ushbu oddiy CRM loyihasi] kabi biror narsani yaratishingiz, mashq qilishingiz kerak bo'ladi (https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Challenge).
 
 -----
 
