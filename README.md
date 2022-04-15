@@ -1,7 +1,9 @@
 # Laravel_uz
-Laravel o'rganmoqchi bo'lganlar uchun o'zbek tilidagi yo'l xaritasi.
-Noqulaylik tug'dirmaslik maqsadida ushbu yo'l xaritadagi mavzular nomini o'zbek tiliga o'girmadim.
-[MANBA/SOURCE](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+Laravel o'rganmoqchi bo'lganlar uchun o'zbek tilidagi yo'l xaritasi. <br>
+Noqulaylik tug'dirmaslik maqsadida ushbu yo'l xaritadagi mavzular nomini o'zbek tiliga o'girmadim. <br>
+Pastda vizual ko'rinishdagi yo'l xaritasi ham mavjud. <br>
+[SOURCE](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path) <br>
+[IMG SOURCE](https://github.com/Hasnayeen/laravel-developer-roadmap/blob/master/images/roadmap.png)
 
 --- 
 
@@ -185,3 +187,10 @@ __Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_faci
 | **Ensuring Code Quality** ||
 | Writing Testable Code |:page_facing_up: [How to write testable code](https://dev.to/ddarrko/how-to-write-more-testable-code-oi7) <br>:page_facing_up: [Refactoring towards testability](https://madewithlove.com/blog/software-engineering/refactoring-untestable-code-towards-testability/) <br>|
 | Continuous Integration and Continuous Delivery (CI/CD) |:page_facing_up: [How to create a CI/CD for a Laravel application using GitHub Actions](https://blog.logrocket.com/how-to-create-a-ci-cd-for-a-laravel-application-using-github-actions/) <br>:page_facing_up: [Configure Laravel 8 for CI/CD with Jenkins and GitHub — Part 1](https://faun.pub/configure-laravel-8-for-ci-cd-with-jenkins-and-github-part-1-58b9be304292) <br>:page_facing_up: [Build, Test, and Deploy Your Laravel Application With GitHub Actions](https://www.twilio.com/blog/build-test-deploy-laravel-application-github-actions) <br>|
+
+__
+
+###Vizual Laravel yo'l xaritasi
+
+![This is an image](https://github.com/Hasnayeen/laravel-developer-roadmap/blob/master/images/roadmap.png)
+
