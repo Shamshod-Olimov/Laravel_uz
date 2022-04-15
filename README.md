@@ -1,7 +1,7 @@
 # Laravel_uz
 Laravel o'rganmoqchi bo'lganlar uchun o'zbek tilidagi yo'l xaritasi.
 Noqulaylik tug'dirmaslik maqsadida ushbu yo'l xaritadagi mavzular nomini o'zbek tiliga o'girmadim.
-[MANBA/SOURCE] (https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+[MANBA/SOURCE](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 
 --- 
 
@@ -42,7 +42,7 @@ __Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_faci
 
 ### Beginner Demo-Loyiha: Shaxsiy Blog
 
-Ushbu darajaga erishish uchun siz [ushbu shaxsiy blog loyihasi] kabi narsalarni yaratishni mashq qilishingiz kerak bo'ladi (https://github.com/LaravelDaily/Laravel-Roadmap-Beginner-Challenge).
+Ushbu darajaga erishish uchun siz [ushbu shaxsiy blog loyihasi](https://github.com/LaravelDaily/Laravel-Roadmap-Beginner-Challenge) kabi narsalarni yaratishni mashq qilishingiz kerak bo'ladi.
 
 -----
 
@@ -99,16 +99,16 @@ __Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_faci
 
 ### Advanced Beginner Demo-Loyiha: Sodda CRM
 
-Ushbu Advanced Beginner darajasiga erishish uchun siz [ushbu oddiy CRM loyihasi] kabi biror narsani yaratishingiz, mashq qilishingiz kerak bo'ladi (https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Challenge).
+Ushbu Advanced Beginner darajasiga erishish uchun siz [ushbu oddiy CRM loyihasi](https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Challenge) kabi biror narsani yaratishingiz, mashq qilishingiz kerak bo'ladi.
 
 -----
 
-## Mid Level
-Master all Laravel features with 3-5 years of practical experience
+## Middle Bosqichi
+Laravelning barcha xususiyatlarini o'zlashtirgan, 3-5 yillik tajribaga ega dasturchi
 
-__Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :capital_abcd: Course__ 
+__Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_facing_up: Maqola :capital_abcd: Kurs :question: Test__ 
 
-| Topic | Learning Links |
+| Mavzular | Havolalar |
 | ----- | ----- |
 | **Routing Extra Features** ||
 | Route Caching |:book: [Route Caching](https://laravel.com/docs/routing#route-caching) <br>|
@@ -158,12 +158,12 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Create Laravel Packages |:book: [Package Development](https://laravel.com/docs/packages) <br>:capital_abcd: [Laravel Package Development](https://laravelpackage.com/) <br>|
 
 
-## Senior Level
-Responsibility for architecture decisions on large projects
+## Senior Bosqichi
+Katta loyihalar arxitekturasini tuza olish
 
-__Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :capital_abcd: Course__ 
+__Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_facing_up: Maqola :capital_abcd: Kurs :question: Test__ 
 
-| Topic | Learning Links |
+| Mavzular | Havolalar |
 | ----- | ----- |
 | **PHP/Laravel Design Patterns** |:clapper: [Laravel Design Patterns - Bobby Bouwmann - Laracon EU 2018 Amsterdam](https://www.youtube.com/watch?v=qpo5KG0vIyE) <br>:capital_abcd: [Laracasts: Design Patterns in PHP](https://laracasts.com/series/design-patterns-in-php) <br>:clapper: [Colin Decarlo - Design Patterns with Laravel [Laracon 2018]](https://www.youtube.com/watch?v=e4ugSgGaCQ0) <br>:clapper: [Matt Stauffer - Patterns That Pay Off [Laracon 2018]](https://www.youtube.com/watch?v=enTb2E4vEos) <br>:capital_abcd: [Design Patterns in PHP](https://refactoring.guru/design-patterns/php) <br>:page_facing_up: [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) <br>|
 | Creational Design Patterns |:page_facing_up: [Design Patterns PHP: Creational](https://designpatternsphp.readthedocs.io/en/latest/Creational/README.html) <br>|
