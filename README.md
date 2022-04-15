@@ -1,22 +1,12 @@
 # Laravel_uz
-Ushbu Repozitoryda Laravel o'rganmoqchi bo'lganlar uchun yo'l xaritasini ko'rsataman.
-
-# Laravel Learning Path
-
-This repository contains the **ordered** list of Laravel topics to learn, step-by-step, with related links.
-
-If you want to add a topic, link, or any other suggestion, please open Issues or Pull Requests.
-
-**Notice 1**: The same table below is also available as a database, so you would be able to transform it to any other format you want - PDF, chart, etc. See file [roadmap.sql](roadmap.sql)
-
-**Notice 2**: This content was filled into an adminpanel generated with our [QuickAdminPanel](https://quickadminpanel.com) - here's a [video demo of that process on Youtube](https://www.youtube.com/watch?v=i2ElUDUDRms). By purchasing QuickAdminPanel, you support my free initiatives, like this Roadmap.
+Laravel o'rganmoqchi bo'lganlar uchun o'zbek tilidagi yo'l xaritasi.
 
 --- 
 
-## Beginner Level
-Create your very first simple Laravel project
+## Beginner Bosqichi
+O'zingizni birinchi oddiy Laravel loyihangizni yarating
 
-__Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :capital_abcd: Course :question: Test__ 
+__Ikonkalarga sharh: :book: Laravel Rasmiy Hujjatlari :clapper: Video :page_facing_up: Maqola :capital_abcd: Kurs :question: Test__ 
 
 | Topic | Learning Links |
 | ----- | ----- |
